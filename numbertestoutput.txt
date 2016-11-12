@@ -1,0 +1,10 @@
+250
+18.0
+3.9
+<module 'math' (built-in)>
+2.0
+1.0
+2j
+<module 'random' from 'C:\Python27\Lib\random.pyc'>
+3
+['Random', 'seed', 'random', 'uniform', 'randint', 'choice', 'sample', 'randrange', 'shuffle', 'normalvariate', 'lognormvariate', 'expovariate', 'vonmisesvariate', 'gammavariate', 'triangular', 'gauss', 'betavariate', 'paretovariate', 'weibullvariate', 'getstate', 'setstate', 'jumpahead', 'WichmannHill', 'getrandbits', 'SystemRandom']
