@@ -1,0 +1,37 @@
+james
+james
+4
+[]
+['apple', 'grapes', 'banana']
+True
+False
+apple
+grapes
+banana
+3
+[0, 1, 2, 3, 4, 5, 6, 7]
+('at index ', 0, ' element is ', 'apple')
+('at index ', 1, ' element is ', 'grapes')
+('at index ', 2, ' element is ', 'banana')
+[1, 2, 3, 4, 5, 'kapil', 'rahul']
+[2, 3, 4]
+[1, 2, 3, 4, 5]
+[1, 8, 9, 5, 4, 5]
+3
+['apple', 'orange', 'banana', 'grapes']
+['t', 'e', 'd', 'c', 'a']
+['apple', 'banana', 'grapes', 'orange']
+1
+1
+2
+['apple', 'banana', 'grapes', 'orange', 'apple']
+apple
+['apple', 'banana', 'grapes', 'orange']
+['apple', 'grapes', 'orange']
+['apple', 'orange']
+7
+1
+['h', 'e', ' ', 'i', 's', ' ', 'r', 'u', 'n', 'n', 'i', 'n', 'g']
+['he', 'is', 'running']
+['C:', 'Python27', 'DLLs']
+Python27.DLLs
