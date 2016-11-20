@@ -1,0 +1,41 @@
+<type 'tuple'>
+(1, 2, 3, 'a', True)
+()
+1
+4
+(2, 3, 4)
+(1, 2)
+15
+45
+(15, 15, 15)
+(1, 2, 3, 4, 7, 8, 9)
+('apple', 'banana', 'mango', 'apple', 'banana', 'mango', 'apple', 'banana', 'mango')
+1
+False
+('a is = ', 5)
+('b is =', 6)
+('uname is =', 'kapilsharma')
+('domain is =', 'gmail.com')
+1
+rahul
+5.6
+(4, 1)
+('quot is =', 4)
+('rem is = ', 1)
+('minimum value is = ', 1)
+('maximum value is =', 6)
+[('h', 1), ('e', 2), ('l', 3), ('l', 4)]
+[(1, 'one'), (2, 'two'), (3, 'three'), (4, 'four')]
+[3, 4, 5]
+4
+1
+2.4
+rahul
+2
+4.5
+a
+(' at ', 0, ' element is', 'r')
+(' at ', 1, ' element is', 'o')
+(' at ', 2, ' element is', 'h')
+(' at ', 3, ' element is', 'i')
+(' at ', 4, ' element is', 't')
