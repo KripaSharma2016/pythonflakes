@@ -1,7 +1,7 @@
 '''
 Created on 21-Nov-2016
 
-@author: ks016399
+@author: kripa sharma
 '''
 ''' write a program which will display personal information of employee Like
 phonenumber, dpt, and address. demand on request
