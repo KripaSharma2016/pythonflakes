@@ -3,7 +3,7 @@
 '''
 Created on 11-Nov-2016
 
-@author: ks016399
+@author: kripa sharma
 '''
 '''A dictionary is like a list, but more general. In a list, the indices have to be 
 integers; in a
