@@ -1,0 +1,4 @@
+ipv6 is= :fe80::b84b:8020:c16b:8d16%1
+ipv4 is= :10.132.73.151
+Subnet Mask is= :255.255.254.0
+Default Gateway is= :10.132.72.1

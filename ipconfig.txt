@@ -1,0 +1,30 @@
+Windows IP Configuration
+
+
+Ethernet adapter Bluetooth Network Connection:
+
+   Media State . . . . . . . . . . . : Media disconnected
+   Connection-specific DNS Suffix  . :
+
+Wireless LAN adapter Wireless Network Connection:
+
+   Media State . . . . . . . . . . . : Media disconnected
+   Connection-specific DNS Suffix  . : dhcp.avagotech.net
+
+Ethernet adapter Local Area Connection:
+
+   Connection-specific DNS Suffix  . : dhcp.avagotech.net
+   Link-local IPv6 Address . . . . . : fe80::b84b:8020:c16b:8d16%1
+   IPv4 Address. . . . . . . . . . . : 10.132.73.151
+   Subnet Mask . . . . . . . . . . . : 255.255.254.0
+   Default Gateway . . . . . . . . . : 10.132.72.1
+
+Tunnel adapter isatap.{359BEF1B-679A-4F88-B609-76616695C4B7}:
+
+   Media State . . . . . . . . . . . : Media disconnected
+   Connection-specific DNS Suffix  . :
+
+Tunnel adapter isatap.ban.broadcom.com:
+
+   Media State . . . . . . . . . . . : Media disconnected
+   Connection-specific DNS Suffix  . :

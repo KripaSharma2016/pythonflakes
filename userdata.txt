@@ -1,0 +1,14 @@
+User name is james 
+james's age is 34 
+james's phone number is 867881636 
+james's address is blrUser name is rohan 
+rohan's age is 34 
+rohan's phone number is 6757632 
+rohan's address is delhiUser name is ginu 
+ginu's age is 43 
+ginu's phone number is 56653 
+ginu's address is bsr 
+User name is alen 
+alen's age is 32 
+alen's phone number is 76763 
+alen's address is us 
